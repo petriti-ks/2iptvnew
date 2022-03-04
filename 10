@@ -1,0 +1,284 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="TV Kombëtare",TV Kombëtareᴴᴰ
+http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="TV Kombëtare",INFO KABLLOR 1ᴴᴰ📺👌
+https://cdn.kapwing.com/final_620daaf8b98414008ffeed0d_353209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="TV Kombëtare",RTK 1ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTVᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="TV Kombëtare",Klan Kosovaᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channelᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://tvonline.bg/wp-content/uploads/top-news-tv.jpg" group-title="TV Kombëtare",Top newsᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/185.ts
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/qqFhKHTT/euro-news.png" group-title="TV Kombëtare",Euronews Albaniaᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klanᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan newsᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="TV Kombëtare",Klan Plusᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plusᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/MTj8G0XG/abc.jpg" group-title="TV Kombëtare",Abc Newsᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora Newsᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/jj0H9tNk/download.jpg" group-title="TV Kombëtare",TV Johaniterᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",---- SPORT PAKO ----
+http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg" group-title="Sport",RTSH Sportᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2ᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport Newsᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 1ᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 2ᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 3ᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 4ᴴᴰ 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport1ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport2ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport3ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Filma",---- FILMA PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",AL: Film Aksionᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="Filma",AL: Tring Actionᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="Filma",AL: Tring Fantasyᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="Filma",AL: Tring Superᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="Filma",AL: Tring Jollyᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="Filma",Tring Lifeᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.ng" group-title="Filma",Tring Familyᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="Filma",,Tring Comedyᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Historyᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Planetᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Worldᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Tringᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Kidsᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",ring Internationalᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts
+#EXTINF:-1 tvg-logo="" group-title="Filma",PEACE TVᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/166
+
+
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Muzikë",---- MUZIKE PAKO ----
+http://line.uhd-ott.com:80/56AD4006/571DF7/311670
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Tirana 1ᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",MTV Kosovaᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Turbo Channelᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Folk Plusᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/87.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Elrodiᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/88.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",RTV 21 Populloreᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Club TVᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Click TVᴴᴰ
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-chno="938" tvg-id="" tvg-name="AL: 30 Days Of Night" tvg-logo="https://image.tmdb.org/t/p/original/uyiJDaKadunrMB35bEZ5TAvzz3a.jpg" group-title="▫️VOD: Albanian",AL: 30 Days Of Night
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218686.mp4
+#EXTINF:-1 tvg-chno="964" tvg-id="" tvg-name="AL: War Horse" tvg-logo="https://image.tmdb.org/t/p/original/7KHz6JlJhrFAPesmUkgdnLrSr8Y.jpg" group-title="▫️VOD: Albanian",AL: War Horse
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218660.mp4
+#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name="AL: Code 8" tvg-logo="https://image.tmdb.org/t/p/original/izGX7npHEopDQvngYcxMJEfcFbj.jpg" group-title="▫️VOD: Albanian",AL: Code 8
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218645.mp4
+#EXTINF:-1 tvg-chno="923" tvg-id="" tvg-name="AL: The Immortal" tvg-logo="https://image.tmdb.org/t/p/original/d8xd3LArZADBDrlnSwvzyxH6DcW.jpg" group-title="▫️VOD: Albanian",AL: The Immortal
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218701.mp4
+#EXTINF:-1 tvg-chno="941" tvg-id="" tvg-name="AL: BASEketball" tvg-logo="https://image.tmdb.org/t/p/original/phZjtfI2KDYOPuYsi4yqjXwZiSn.jpg" group-title="▫️VOD: Albanian",AL: BASEketball
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218683.mp4
+#EXTINF:-1 tvg-chno="924" tvg-id="" tvg-name="AL: The Invisible Man" tvg-logo="https://image.tmdb.org/t/p/original/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg" group-title="▫️VOD: Albanian",AL: The Invisible Man
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218700.mp4
+#EXTINF:-1 tvg-chno="984" tvg-id="" tvg-name="AL: Flight" tvg-logo="https://image.tmdb.org/t/p/original/1AjXgBM2lkpG3FLQO0f6AK3Bi1e.jpg" group-title="▫️VOD: Albanian",AL: Flight
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218640.mp4
+#EXTINF:-1 tvg-chno="925" tvg-id="" tvg-name="AL: The Jesus Rolls" tvg-logo="https://image.tmdb.org/t/p/original/rcPgoNrpbP7oK3kKit4TC7nRlMH.jpg" group-title="▫️VOD: Albanian",AL: The Jesus Rolls
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218699.mp4
+#EXTINF:-1 tvg-chno="926" tvg-id="" tvg-name="AL: The Platform" tvg-logo="https://image.tmdb.org/t/p/original/fZqpkPAa766kvhBRzX6DDj4m3Bl.jpg" group-title="▫️VOD: Albanian",AL: The Platform
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218698.mp4
+#EXTINF:-1 tvg-chno="927" tvg-id="" tvg-name="AL: The Postcard Killings" tvg-logo="https://image.tmdb.org/t/p/original/iPOHjGttfXfPsqhhv6x0fv5rU1H.jpg" group-title="▫️VOD: Albanian",AL: The Postcard Killings
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218697.mp4
+#EXTINF:-1 tvg-chno="928" tvg-id="" tvg-name="AL: The Way Back" tvg-logo="https://image.tmdb.org/t/p/original/ylPnfaphW3FrLBUVwAREVtiL9My.jpg" group-title="▫️VOD: Albanian",AL: The Way Back
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218696.mp4
+#EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="AL: Ultras" tvg-logo="https://image.tmdb.org/t/p/original/vHqpFuguBugZZfXIyjsb4tOAXve.jpg" group-title="▫️VOD: Albanian",AL: Ultras
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218695.mp4
+#EXTINF:-1 tvg-chno="930" tvg-id="" tvg-name="AL: Wild Tales" tvg-logo="https://image.tmdb.org/t/p/original/qqeAwr24xllayxmS8Er7LTnFkfZ.jpg" group-title="▫️VOD: Albanian",AL: Wild Tales
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218694.mp4
+#EXTINF:-1 tvg-chno="931" tvg-id="" tvg-name="AL: The Osiris Child" tvg-logo="https://image.tmdb.org/t/p/original/3sx69bH2n2tgvknvq2VROJ6lEXS.jpg" group-title="▫️VOD: Albanian",AL: The Osiris Child
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218693.mp4
+#EXTINF:-1 tvg-chno="932" tvg-id="" tvg-name="AL: The Promise" tvg-logo="https://image.tmdb.org/t/p/original/iDWer2VFikupdqDc7d5sxCWZ3gW.jpg" group-title="▫️VOD: Albanian",AL: The Promise
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218692.mp4
+#EXTINF:-1 tvg-chno="933" tvg-id="" tvg-name="AL: The Sonata" tvg-logo="https://image.tmdb.org/t/p/original/iiL3AWKPx6GIZN6AmmSq7pbtyc.jpg" group-title="▫️VOD: Albanian",AL: The Sonata
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218691.mp4
+#EXTINF:-1 tvg-chno="934" tvg-id="" tvg-name="AL: The Star" tvg-logo="https://image.tmdb.org/t/p/original/tEbDvivUfsCupngKIfMJJ725eAD.jpg" group-title="▫️VOD: Albanian",AL: The Star
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218690.mp4
+#EXTINF:-1 tvg-chno="935" tvg-id="" tvg-name="AL: The Trigonal- Fight For Justice" tvg-logo="https://image.tmdb.org/t/p/original/pZKSpoJb808Fn2WMbETH5gzlETq.jpg" group-title="▫️VOD: Albanian",AL: The Trigonal- Fight For Justice
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218689.mp4
+#EXTINF:-1 tvg-chno="936" tvg-id="" tvg-name="AL: 0 0 Mhz" tvg-logo="https://image.tmdb.org/t/p/original/3jvbaQCPJNkZM7Aqjf5YLftO77Y.jpg" group-title="▫️VOD: Albanian",AL: 0 0 Mhz
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218688.mp4
+#EXTINF:-1 tvg-chno="937" tvg-id="" tvg-name="AL: 6 Underground" tvg-logo="https://image.tmdb.org/t/p/original/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="▫️VOD: Albanian",AL: 6 Underground
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218687.mp4
+
+#EXTINF:-1 tvg-chno="939" tvg-id="" tvg-name="AL: A Witness Out Of The Blue" tvg-logo="https://image.tmdb.org/t/p/original/wJWRVzcDYiWZPBqqxloGjr0R4pT.jpg" group-title="▫️VOD: Albanian",AL: A Witness Out Of The Blue
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218685.mp4
+#EXTINF:-1 tvg-chno="940" tvg-id="" tvg-name="AL: Back Of The Net" tvg-logo="https://image.tmdb.org/t/p/original/f6og7oUTH6vXeu3Li5SNhjfUwx5.jpg" group-title="▫️VOD: Albanian",AL: Back Of The Net
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218684.mp4
+
+#EXTINF:-1 tvg-chno="942" tvg-id="" tvg-name="AL: Black And Blue" tvg-logo="https://image.tmdb.org/t/p/original/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg" group-title="▫️VOD: Albanian",AL: Black And Blue
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218682.mp4
+#EXTINF:-1 tvg-chno="943" tvg-id="" tvg-name="AL: Despite The Falling Snow" tvg-logo="https://image.tmdb.org/t/p/original/sYCwDIeGfOjxesa3j6wu44EjhwU.jpg" group-title="▫️VOD: Albanian",AL: Despite The Falling Snow
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218681.mp4
+#EXTINF:-1 tvg-chno="944" tvg-id="" tvg-name="AL: Ford V Ferrari" tvg-logo="https://image.tmdb.org/t/p/original/nEc1feopQGxOEsIuJYFiyxKyWM8.jpg" group-title="▫️VOD: Albanian",AL: Ford V Ferrari
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218680.mp4
+#EXTINF:-1 tvg-chno="945" tvg-id="" tvg-name="AL: Frozen II" tvg-logo="https://image.tmdb.org/t/p/original/mINJaa34MtknCYl5AjtNJzWj8cD.jpg" group-title="▫️VOD: Albanian",AL: Frozen II
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218679.mp4
+#EXTINF:-1 tvg-chno="946" tvg-id="" tvg-name="AL: Hotel Transylvania" tvg-logo="https://image.tmdb.org/t/p/original/eJGvzGrsfe2sqTUPv5IwLWXjVuR.jpg" group-title="▫️VOD: Albanian",AL: Hotel Transylvania
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218678.mp4
+#EXTINF:-1 tvg-chno="947" tvg-id="" tvg-name="AL: Identity Thief" tvg-logo="https://image.tmdb.org/t/p/original/lIliJCGoWT6tEVaDivLpXEf038w.jpg" group-title="▫️VOD: Albanian",AL: Identity Thief
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218677.mp4
+#EXTINF:-1 tvg-chno="948" tvg-id="" tvg-name="AL: Knives Out" tvg-logo="https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg" group-title="▫️VOD: Albanian",AL: Knives Out
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218676.mp4
+#EXTINF:-1 tvg-chno="949" tvg-id="" tvg-name="AL: Line Walker 2- Invisible Spy" tvg-logo="https://image.tmdb.org/t/p/original/u4yzPH9lhJbGaV0ZkvWWKTF3gGi.jpg" group-title="▫️VOD: Albanian",AL: Line Walker 2- Invisible Spy
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218675.mp4
+#EXTINF:-1 tvg-chno="950" tvg-id="" tvg-name="AL: Maleficent- Mistress Of Evil" tvg-logo="https://image.tmdb.org/t/p/original/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg" group-title="▫️VOD: Albanian",AL: Maleficent- Mistress Of Evil
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218674.mp4
+#EXTINF:-1 tvg-chno="951" tvg-id="" tvg-name="AL: Princess Mononoke" tvg-logo="https://image.tmdb.org/t/p/original/k4HOqXsHwQBZslSCu2WSWLD2zgk.jpg" group-title="▫️VOD: Albanian",AL: Princess Mononoke
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218673.mp4
+#EXTINF:-1 tvg-chno="952" tvg-id="" tvg-name="AL: QT8- The First Eight" tvg-logo="https://image.tmdb.org/t/p/original/rGPwMYUeygsUAmo0NS8IPlhQEfH.jpg" group-title="▫️VOD: Albanian",AL: QT8- The First Eight
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218672.mp4
+#EXTINF:-1 tvg-chno="953" tvg-id="" tvg-name="AL: R I P D" tvg-logo="https://image.tmdb.org/t/p/original/fQ7CI5zmmhZlHuYBFKgK9w4hwlS.jpg" group-title="▫️VOD: Albanian",AL: R I P D
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218671.mp4
+#EXTINF:-1 tvg-chno="954" tvg-id="" tvg-name="AL: Red Dawn" tvg-logo="https://image.tmdb.org/t/p/original/aHdxKDX36NOEYE2NyAyP7ThuAcm.jpg" group-title="▫️VOD: Albanian",AL: Red Dawn
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218670.mp4
+#EXTINF:-1 tvg-chno="955" tvg-id="" tvg-name="AL: Shallow Hal" tvg-logo="https://image.tmdb.org/t/p/original/q4lZrHWTWuybb6pzMucj1c0ngCW.jpg" group-title="▫️VOD: Albanian",AL: Shallow Hal
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218669.mp4
+#EXTINF:-1 tvg-chno="956" tvg-id="" tvg-name="AL: Teacher" tvg-logo="https://image.tmdb.org/t/p/original/zpIY4qUSX91J9XpPgr0hFrk1eKr.jpg" group-title="▫️VOD: Albanian",AL: Teacher
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218668.mp4
+#EXTINF:-1 tvg-chno="957" tvg-id="" tvg-name="AL: The VelociPastor" tvg-logo="https://image.tmdb.org/t/p/original/trSmNw63luh84MBy5XLH0UiN1BC.jpg" group-title="▫️VOD: Albanian",AL: The VelociPastor
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218667.mp4
+#EXTINF:-1 tvg-chno="958" tvg-id="" tvg-name="AL: Through Black Spruce" tvg-logo="https://image.tmdb.org/t/p/original/ogjsBVgP5Mg2s9NlUhB4dFfDkLg.jpg" group-title="▫️VOD: Albanian",AL: Through Black Spruce
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218666.mp4
+#EXTINF:-1 tvg-chno="959" tvg-id="" tvg-name="AL: True History Of The Kelly Gang" tvg-logo="https://image.tmdb.org/t/p/original/eVyESHnWiTY1el8DEWbYMVW3K5k.jpg" group-title="▫️VOD: Albanian",AL: True History Of The Kelly Gang
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218665.mp4
+#EXTINF:-1 tvg-chno="960" tvg-id="" tvg-name="AL: Ujda Chaman" tvg-logo="https://image.tmdb.org/t/p/original/zY2fMkk4VB2bYwAYnHQV5jVUWFo.jpg" group-title="▫️VOD: Albanian",AL: Ujda Chaman
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218664.mp4
+#EXTINF:-1 tvg-chno="961" tvg-id="" tvg-name="AL: Undercover Vs  Undercover" tvg-logo="https://image.tmdb.org/t/p/original/8lGFVecQmk8XYuL1McuU5EDwsNY.jpg" group-title="▫️VOD: Albanian",AL: Undercover Vs  Undercover
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218663.mp4
+#EXTINF:-1 tvg-chno="962" tvg-id="" tvg-name="AL: Untitled Chris Watts Project" tvg-logo="https://image.tmdb.org/t/p/original/sIJpIyoxtcwNayzWt5mQwjDPxOj.jpg" group-title="▫️VOD: Albanian",AL: Untitled Chris Watts Project
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218662.mp4
+#EXTINF:-1 tvg-chno="963" tvg-id="" tvg-name="AL: Use Me" tvg-logo="https://image.tmdb.org/t/p/original/s0FGlDIG1mh0qKAm1zRjxGWky3q.jpg" group-title="▫️VOD: Albanian",AL: Use Me
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218661.mp4
+#EXTINF:-1 tvg-chno="965" tvg-id="" tvg-name="AL: Waves" tvg-logo="https://image.tmdb.org/t/p/original/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg" group-title="▫️VOD: Albanian",AL: Waves
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218659.mp4
+#EXTINF:-1 tvg-chno="966" tvg-id="" tvg-name="AL: White Snake" tvg-logo="https://image.tmdb.org/t/p/original/tSdK6Td3w2CnbcwciX8Qy4W5Wk.jpg" group-title="▫️VOD: Albanian",AL: White Snake
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218658.mp4
+#EXTINF:-1 tvg-chno="967" tvg-id="" tvg-name="AL: Wings Over Everest" tvg-logo="https://image.tmdb.org/t/p/original/3yoNSNkrdz89pQZxowgY4ZnTGL9.jpg" group-title="▫️VOD: Albanian",AL: Wings Over Everest
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218657.mp4
+#EXTINF:-1 tvg-chno="968" tvg-id="" tvg-name="AL: Witness" tvg-logo="https://image.tmdb.org/t/p/original/zXN3bsLTcFhKazWuFGzSF3Ln8NI.jpg" group-title="▫️VOD: Albanian",AL: Witness
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218656.mp4
+#EXTINF:-1 tvg-chno="969" tvg-id="" tvg-name="AL: Yes Man" tvg-logo="https://image.tmdb.org/t/p/original/16zVbgFLTUaUTG1wQHuGjfWNuDM.jpg" group-title="▫️VOD: Albanian",AL: Yes Man
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218655.mp4
+#EXTINF:-1 tvg-chno="970" tvg-id="" tvg-name="AL: A Beautiful Day In The Neighborhood" tvg-logo="https://image.tmdb.org/t/p/original/p9vCAVhDK375XyobVcKqzqzsUHE.jpg" group-title="▫️VOD: Albanian",AL: A Beautiful Day In The Neighborhood
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218654.mp4
+#EXTINF:-1 tvg-chno="971" tvg-id="" tvg-name="AL: A Christmas Carol" tvg-logo="https://image.tmdb.org/t/p/original/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg" group-title="▫️VOD: Albanian",AL: A Christmas Carol
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218653.mp4
+#EXTINF:-1 tvg-chno="972" tvg-id="" tvg-name="AL: All About My Mother" tvg-logo="https://image.tmdb.org/t/p/original/zRhb5yDrbLgS98hpF3JqNQ8BHcv.jpg" group-title="▫️VOD: Albanian",AL: All About My Mother
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218652.mp4
+#EXTINF:-1 tvg-chno="973" tvg-id="" tvg-name="AL: Anna And The Apocalypse" tvg-logo="https://image.tmdb.org/t/p/original/pb60xSzUnS9D5iDvrV8N6QOG3ZR.jpg" group-title="▫️VOD: Albanian",AL: Anna And The Apocalypse
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218651.mp4
+#EXTINF:-1 tvg-chno="974" tvg-id="" tvg-name="AL: Batman Vs  Robin" tvg-logo="https://image.tmdb.org/t/p/original/aGp9XDXmVM5lCKHWtgBC15S7XLr.jpg" group-title="▫️VOD: Albanian",AL: Batman Vs  Robin
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218650.mp4
+#EXTINF:-1 tvg-chno="975" tvg-id="" tvg-name="AL: Bernie The Dolphin 2" tvg-logo="https://image.tmdb.org/t/p/original/kuLyLn0bLCieQabdvGwFj0wV1Cz.jpg" group-title="▫️VOD: Albanian",AL: Bernie The Dolphin 2
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218649.mp4
+#EXTINF:-1 tvg-chno="976" tvg-id="" tvg-name="AL: Beyond The Law" tvg-logo="https://image.tmdb.org/t/p/original/3yIhZPJuoo0LATK9TxVhxmQWGy3.jpg" group-title="▫️VOD: Albanian",AL: Beyond The Law
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218648.mp4
+#EXTINF:-1 tvg-chno="977" tvg-id="" tvg-name="AL: Brexit - The Uncivil War" tvg-logo="https://image.tmdb.org/t/p/original/fKfYKQQMNARXOgyf5ieVeGWlNQU.jpg" group-title="▫️VOD: Albanian",AL: Brexit - The Uncivil War
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218647.mp4
+#EXTINF:-1 tvg-chno="978" tvg-id="" tvg-name="AL: Christmas Inheritance" tvg-logo="https://image.tmdb.org/t/p/original/sqdbF40nBzS2IZVAGPxJT7loxoM.jpg" group-title="▫️VOD: Albanian",AL: Christmas Inheritance
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218646.mp4
+#EXTINF:-1 tvg-chno="979" tvg-id="" tvg-name="AL: Code 8" tvg-logo="https://image.tmdb.org/t/p/original/izGX7npHEopDQvngYcxMJEfcFbj.jpg" group-title="▫️VOD: Albanian",AL: Code 8
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218645.mp4
+#EXTINF:-1 tvg-chno="980" tvg-id="" tvg-name="AL: Crime Story" tvg-logo="https://image.tmdb.org/t/p/original/2OLsqdSep8HdTuOllZ8XYZWh5B9.jpg" group-title="▫️VOD: Albanian",AL: Crime Story
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218644.mp4
+#EXTINF:-1 tvg-chno="981" tvg-id="" tvg-name="AL: Cuck" tvg-logo="https://image.tmdb.org/t/p/original/jdTn8bDrghtLml0jgkagzlIXlWC.jpg" group-title="▫️VOD: Albanian",AL: Cuck
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218643.mp4
+#EXTINF:-1 tvg-chno="982" tvg-id="" tvg-name="AL: Dallas Buyers Club" tvg-logo="https://image.tmdb.org/t/p/original/7Fdh7gUq3plvQqxRbNYhWvDABXA.jpg" group-title="▫️VOD: Albanian",AL: Dallas Buyers Club
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218642.mp4
+#EXTINF:-1 tvg-chno="983" tvg-id="" tvg-name="AL: Experimenter" tvg-logo="https://image.tmdb.org/t/p/original/bcVhkScQvO4QH5rqOkZwXJo1K99.jpg" group-title="▫️VOD: Albanian",AL: Experimenter
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218641.mp4
+#EXTINF:-1 tvg-chno="985" tvg-id="" tvg-name="AL: Grand Isle" tvg-logo="https://image.tmdb.org/t/p/original/8mcXb3km7hZ8aJKpxxgnvvxt9gW.jpg" group-title="▫️VOD: Albanian",AL: Grand Isle
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218639.mp4
+#EXTINF:-1 tvg-chno="986" tvg-id="" tvg-name="AL: Hard Night Falling" tvg-logo="https://image.tmdb.org/t/p/original/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="▫️VOD: Albanian",AL: Hard Night Falling
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218638.mp4
+#EXTINF:-1 tvg-chno="987" tvg-id="" tvg-name="AL: Home Alone" tvg-logo="https://image.tmdb.org/t/p/original/lL2Ri3PHs9V1ot3V8ZUvrtFgj9h.jpg" group-title="▫️VOD: Albanian",AL: Home Alone
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218637.mp4
+#EXTINF:-1 tvg-chno="988" tvg-id="" tvg-name="AL: Home Alone 2- Lost In New York" tvg-logo="https://image.tmdb.org/t/p/original/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg" group-title="▫️VOD: Albanian",AL: Home Alone 2- Lost In New York
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218636.mp4
+#EXTINF:-1 tvg-chno="989" tvg-id="" tvg-name="AL: How To Say Goodbye" tvg-logo="https://image.tmdb.org/t/p/original/iXHiLkMfSaZRVFnYyB6jdhFRGAk.jpg" group-title="▫️VOD: Albanian",AL: How To Say Goodbye
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218635.mp4
+#EXTINF:-1 tvg-chno="990" tvg-id="" tvg-name="AL: Ice Age- A Mammoth Christmas" tvg-logo="https://image.tmdb.org/t/p/original/kwLi6MLlVsPWMVB9gOpFo5n7HZR.jpg" group-title="▫️VOD: Albanian",AL: Ice Age- A Mammoth Christmas
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218634.mp4
+#EXTINF:-1 tvg-chno="991" tvg-id="" tvg-name="AL: I See You" tvg-logo="https://image.tmdb.org/t/p/original/2LwamrHAmxqEHsT9JViFJxT08Ek.jpg" group-title="▫️VOD: Albanian",AL: I See You
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218633.mp4
+#EXTINF:-1 tvg-chno="992" tvg-id="" tvg-name="AL: Jexi" tvg-logo="https://image.tmdb.org/t/p/original/pdYhXJPoV0Kvwdih74lejHPTyWL.jpg" group-title="▫️VOD: Albanian",AL: Jexi
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218632.mp4
+#EXTINF:-1 tvg-chno="993" tvg-id="" tvg-name="AL: Jojo Rabbit" tvg-logo="https://image.tmdb.org/t/p/original/7GsM4mtM0worCtIVeiQt28HieeN.jpg" group-title="▫️VOD: Albanian",AL: Jojo Rabbit
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218631.mp4
+#EXTINF:-1 tvg-chno="994" tvg-id="" tvg-name="AL: Judy" tvg-logo="https://image.tmdb.org/t/p/original/iqJhHjD6k6T07waELjMKDpQJUP.jpg" group-title="▫️VOD: Albanian",AL: Judy
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218630.mp4
+#EXTINF:-1 tvg-chno="995" tvg-id="" tvg-name="AL: Little Monsters" tvg-logo="https://image.tmdb.org/t/p/original/iAiQB05sFJhN8rmYuEl9lUZ1qWq.jpg" group-title="▫️VOD: Albanian",AL: Little Monsters
+http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/218629.mp4
