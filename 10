@@ -3,68 +3,79 @@
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="TV Kombëtare",INFO KABLLOR 1ᴴᴰ📺👌
 https://cdn.kapwing.com/final_620daaf8b98414008ffeed0d_353209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="TV Kombëtare",RTK 1ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="TV Kombëtare",RTK 1ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
-#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTVᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/s20QFcJ9/RTV-21.png" group-title="ALBANIEN",RTV 21 HD
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24101
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://i.postimg.cc/zDTBp54k/KTV.png" group-title="TV Kombëtare",KTVᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/136.ts
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="TV Kombëtare",Klan Kosovaᴴᴰ
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://i.postimg.cc/vH3GSmh5/KLAN-KOSOVA.png" group-title="TV Kombëtare",Klan Kosovaᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channelᴴᴰ
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="TV Kombëtare",Top Channelᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/131.ts
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://tvonline.bg/wp-content/uploads/top-news-tv.jpg" group-title="TV Kombëtare",Top newsᴴᴰ 
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/m2MQQ0Sx/TOP-NEWS.png" group-title="TV Kombëtare",Top newsᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/185.ts
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/qqFhKHTT/euro-news.png" group-title="TV Kombëtare",Euronews Albaniaᴴᴰ
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/Bn4JtvvV/euro-news.png" group-title="TV Kombëtare",Euronews Albaniaᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/175.ts
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klanᴴᴰ
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://i.postimg.cc/FHzhtQC8/KLAN.png" group-title="TV Kombëtare",Klanᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/106.ts
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan newsᴴᴰ
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://i.postimg.cc/zGc26d4F/klan-news.png" group-title="TV Kombëtare",Klan newsᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/167.ts
-#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="TV Kombëtare",Klan Plusᴴᴰ 
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://i.postimg.cc/ZRtmyvYz/KLAN-PLUS.png" group-title="TV Kombëtare",Klan Plusᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/107.ts
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plusᴴᴰ 
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://i.postimg.cc/Qx4rJyNb/VIZION-PLUS.png" group-title="TV Kombëtare",Vizion Plusᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/MTj8G0XG/abc.jpg" group-title="TV Kombëtare",Abc Newsᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/8kYHddQv/ABC-NEWS.png" group-title="TV Kombëtare",Abc Newsᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora Newsᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://i.postimg.cc/MTWs4zdj/ORA-NEWS.png" group-title="TV Kombëtare",Ora Newsᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/139.ts
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://i.postimg.cc/1XdJfwPp/NEWS-24.png" group-title="TV Kombëtare",News 24ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/159.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/jj0H9tNk/download.jpg" group-title="TV Kombëtare",TV Johaniterᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD AL" tvg-logo="https://i.postimg.cc/sgY108Mt/tv-johaniter.png" group-title="TV Kombëtare",TV Johaniterᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/162.ts
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",---- SPORT PAKO ----
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="https://picon-13398.kxcdn.com/rtshsport.jpg" group-title="Sport",RTSH Sportᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Sport AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",RTSH Sportᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/124.ts
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="Sport",SuperSport 1ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2ᴴᴰ 
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="Sport",SuperSport 2ᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3ᴴᴰ
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="Sport",SuperSport 3ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4ᴴᴰ
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="Sport",SuperSport 4ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport Newsᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/fbFL3hpS/ting-sport-news.png" group-title="Sport",Tring Sport Newsᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 1ᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="Sport",Tring Sport 1ᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 2ᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/1zjdg8Sc/TRING2.png" group-title="Sport",Tring Sport 2ᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 3ᴴᴰ 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/Wb5wpQT0/TRING3.png" group-title="Sport",Tring Sport 3ᴴᴰ 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",Tring Sport 4ᴴᴰ 
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport1ᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport2ᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/182.ts
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Arena Sport3ᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/xTkBPvjz/SPORT.png" group-title="Sport",---- SPORT PAKO 2----
+http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="ALBANIEN",SuperSport 1ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1088
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="ALBANIEN",SuperSport 2ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1089
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="ALBANIEN",SuperSport 3ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1090
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="ALBANIEN",SuperSport 4ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1091
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="ALBANIEN",Tring Sport 1ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1084
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://i.postimg.cc/1zjdg8Sc/TRING2.png" group-title="ALBANIEN",Tring Sport 2ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1085
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/Wb5wpQT0/TRING3.png" group-title="ALBANIEN",Tring Sport 3ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1086
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 4 HD AL" tvg-logo="https://i.postimg.cc/ZR1zkCTd/TRING4.png" group-title="ALBANIEN",Tring Sport 4ᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/1087
 
 
 
@@ -75,40 +86,40 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/183.ts
 
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Filma",---- FILMA PAKO ----
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",AL: Film Aksionᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/177.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Action HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Action.png" group-title="Filma",AL: Tring Actionᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Fantasy HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png" group-title="Filma",AL: Tring Fantasyᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Super HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png" group-title="Filma",AL: Tring Superᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="AL: Tring Jolly HD" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png" group-title="Filma",AL: Tring Jollyᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/75.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="Filma",Tring Lifeᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/73.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.ng" group-title="Filma",Tring Familyᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/176.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/7YPpJFdm/FILMA.png" group-title="Filma",,Tring Comedyᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/70.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Historyᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/68.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Planetᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/67.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Worldᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/66.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Tringᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/78.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",Tring Kidsᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/79.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",ring Internationalᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/64.ts
-#EXTINF:-1 tvg-logo="" group-title="Filma",PEACE TVᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/166
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/c4HJWYrF/AKSION.png" group-title="Filma",AL: Film Aksionᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/35
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/c4HJWYrF/AKSION.png" group-title="Filma",AL: Film Aksionᴴᴰ2
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://i.postimg.cc/VvHmvGdD/THRILLER.png" group-title="Filma",Film Thrillerᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/41
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://i.postimg.cc/VvHmvGdD/THRILLER.png" group-title="Filma",Film Thrillerᴴᴰ2
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24091
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV AKSION HD" tvg-logo="" group-title="Filma",AKSIONᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/356
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV CINEMA HD" tvg-logo="" group-title="Filma", CINEMAᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/374
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV FILM HD" tvg-logo="" group-title="Filma", FILMᴴᴰ
+#EXTINF:0 tvg-id="ext" group-title="Filma",NETFLIX JACKIE CHANᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/328
+#EXTINF:0 tvg-id="ext" group-title="Filma",NETFLIX AKSIONᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/397
+#EXTINF:0 tvg-id="SkyCinemaUno.it" group-title="Filma",CINEMA 1ᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/234
+#EXTINF:0 tvg-id="ext" group-title="Filma",CINEMA 2ᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/235
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV WESTER HD" tvg-logo="" group-title="Filma",TV WESTERᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/375
+
 
 
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Muzikë",---- MUZIKE PAKO ----
 http://line.uhd-ott.com:80/56AD4006/571DF7/311670
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV MUSIC HD" tvg-logo="" group-title="Muzikë",TV MUSICᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/363
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV TALLAVA HD" tvg-logo="" group-title="Muzikë",TV TALLAVAᴴᴰ
+http://78.31.67.69:8080/Sinan/Isufi/364
+#EXTINF:-1 tvg-id="" tvg-name="AL:TV Dielli" tvg-logo="" group-title="Muzikë",TV Dielliᴴᴰ
+http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4593
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Tirana 1ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",MTV Kosovaᴴᴰ
@@ -125,7 +136,6 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Click TVᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
-
 
 
 
