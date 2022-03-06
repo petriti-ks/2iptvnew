@@ -90,15 +90,9 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
 http://78.31.67.69:8080/Sinan/Isufi/35
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/c4HJWYrF/AKSION.png" group-title="Filma",AL: Film Aksionᴴᴰ2
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://i.postimg.cc/VvHmvGdD/THRILLER.png" group-title="Filma",Film Thrillerᴴᴰ
-http://78.31.67.69:8080/Sinan/Isufi/41
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://i.postimg.cc/VvHmvGdD/THRILLER.png" group-title="Filma",Film Thrillerᴴᴰ2
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24091
-#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV AKSION HD" tvg-logo="" group-title="Filma",AKSIONᴴᴰ
-http://78.31.67.69:8080/Sinan/Isufi/356
-#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV CINEMA HD" tvg-logo="" group-title="Filma", CINEMAᴴᴰ
-http://78.31.67.69:8080/Sinan/Isufi/374
-#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV FILM HD" tvg-logo="" group-title="Filma", FILMᴴᴰ
+
 #EXTINF:0 tvg-id="ext" group-title="Filma",NETFLIX JACKIE CHANᴴᴰ
 http://78.31.67.69:8080/Sinan/Isufi/328
 #EXTINF:0 tvg-id="ext" group-title="Filma",NETFLIX AKSIONᴴᴰ
@@ -114,10 +108,7 @@ http://78.31.67.69:8080/Sinan/Isufi/375
 
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Muzikë",---- MUZIKE PAKO ----
 http://line.uhd-ott.com:80/56AD4006/571DF7/311670
-#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV MUSIC HD" tvg-logo="" group-title="Muzikë",TV MUSICᴴᴰ
-http://78.31.67.69:8080/Sinan/Isufi/363
-#EXTINF:-1 tvg-id="ext" tvg-name="AL: XAIAL TV TALLAVA HD" tvg-logo="" group-title="Muzikë",TV TALLAVAᴴᴰ
-http://78.31.67.69:8080/Sinan/Isufi/364
+
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Dielli" tvg-logo="" group-title="Muzikë",TV Dielliᴴᴰ
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4593
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Tirana 1ᴴᴰ
