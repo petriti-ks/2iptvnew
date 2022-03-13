@@ -88,7 +88,7 @@ http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24096
 
 #EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringshqip.png" group-title="Filma",Tring Shqip
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24072
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring MAX" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringaction.png" group-title="Filma,Tring Action
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringaction.png" group-title="Filma",Tring Action
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24074
 #EXTINF:-1 tvg-id="" tvg-name="AL:Tring Fantasy" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringfantasy.png" group-title="Filma",Tring Fantasy
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24079
