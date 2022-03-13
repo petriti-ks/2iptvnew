@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="TV Kombëtare",TV Kombëtareᴴᴰ
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=0
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="TV Kombëtare",INFO KABLLOR 1ᴴᴰ📺👌
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/pr0VGnKP/info-petriti.png" group-title="TV Kombëtare",INFO KABLLOR 1ᴴᴰ📺👌
 https://cdn.kapwing.com/final_620daaf8b98414008ffeed0d_353209.mp4
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/rtk1.png" group-title="TV Kombëtare",RTK 1ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/135.ts
@@ -78,21 +78,21 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24097
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/thriller.png" group-title="Filma",Film Thrillerᴴᴰ
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24091
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/hits1.png" group-title="ALBANIEN", Film Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/hits1.png" group-title="Filma", Film Hits HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24094
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/komedi.png" group-title="ALBANIEN",Film Komedi HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/komedi.png" group-title="Filma",Film Komedi HD
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24093
-#EXTINF:-1 tvg-id="" tvg-name="AL:Film Drame" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/drame.png" group-title="ALBANIEN",Film Drame
+#EXTINF:-1 tvg-id="" tvg-name="AL:Film Drame" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/drame.png" group-title="Filma",Film Drame
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24096
 
 
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringshqip.png" group-title="ALBANIEN",Tring Shqip
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Shqip" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringshqip.png" group-title="Filma",Tring Shqip
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24072
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring MAX" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringaction.png" group-title="ALBANIEN",Tring Action
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring MAX" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringaction.png" group-title="Filma,Tring Action
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24074
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Fantasy" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringfantasy.png" group-title="ALBANIEN",Tring Fantasy
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Fantasy" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringfantasy.png" group-title="Filma",Tring Fantasy
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24079
-#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Super" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringsuper.png" group-title="ALBANIEN",Tring Super
+#EXTINF:-1 tvg-id="" tvg-name="AL:Tring Super" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/tringsuper.png" group-title="Filma",Tring Super
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/24070
 
 
@@ -103,22 +103,13 @@ http://line.uhd-ott.com:80/56AD4006/571DF7/311670
 
 #EXTINF:-1 tvg-id="" tvg-name="AL:TV Dielli" tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/dielli.png" group-title="Muzikë",TV Dielliᴴᴰ
 http://server.hdiptv.world:8080/selcukhome/0COjnSG4lk/4593
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Tirana 1ᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pd1ZH0xj/tirana.png" group-title="Muzikë",Tirana 1ᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/85.ts
 #EXTINF:-1 tvg-logo="https://tivivo.al/wp-content/uploads/2020/09/mtv.png" group-title="Muzikë",MTV Kosovaᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/168.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Turbo Channelᴴᴰ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d39Zq1df/turbo.png" group-title="Muzikë",Turbo Channelᴴᴰ
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/169.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Folk Plusᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/87.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Elrodiᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/88.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",RTV 21 Populloreᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/58.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Club TVᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/92.ts
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.pn" group-title="Muzikë",Click TVᴴᴰ
-http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/90.ts
+
 
 
 
